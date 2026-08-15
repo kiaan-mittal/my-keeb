@@ -1,0 +1,224 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="987.5" height="362.0" viewBox="0 0 987.5 362.0" role="img" aria-label="my-keeb 65 percent layout">
+<style>
+  .key { fill: #f4efe4; stroke: #1b1b1b; stroke-width: 1.4; }
+  .enc { fill: #ff8c37; }
+  .stab { fill: #338eda; }
+  .wide { fill: #f0e6d2; }
+  .mod { fill: #e8e0d2; }
+  text { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #1b1b1b; text-anchor: middle; dominant-baseline: middle; }
+  .label { font-size: 11px; font-weight: 700; }
+  .rc { font-size: 8px; fill: #5c5c5c; }
+  .title { font-size: 16px; font-weight: 800; text-anchor: start; }
+  .sub { font-size: 11px; fill: #5c5c5c; text-anchor: start; }
+</style>
+<rect width="100%" height="100%" fill="#fff8f0"/>
+<text class="title" x="28" y="18">my-keeb — planned ANSI 65%</text>
+<text class="sub" x="28" y="34">Hack Club KEEB · MX 19.05mm · encoder is off-matrix</text>
+<rect class="key mod" x="29.50" y="53.50" width="51.00" height="51.00" rx="6.0"/>
+<text class="label" x="55.00" y="74.00">Esc</text>
+<text class="rc" x="55.00" y="89.00">R0 C0</text>
+<rect class="key" x="83.50" y="53.50" width="51.00" height="51.00" rx="6.0"/>
+<text class="label" x="109.00" y="74.00">1</text>
+<text class="rc" x="109.00" y="89.00">R0 C1</text>
+<rect class="key" x="137.50" y="53.50" width="51.00" height="51.00" rx="6.0"/>
+<text class="label" x="163.00" y="74.00">2</text>
+<text class="rc" x="163.00" y="89.00">R0 C2</text>
+<rect class="key" x="191.50" y="53.50" width="51.00" height="51.00" rx="6.0"/>
+<text class="label" x="217.00" y="74.00">3</text>
+<text class="rc" x="217.00" y="89.00">R0 C3</text>
+<rect class="key" x="245.50" y="53.50" width="51.00" height="51.00" rx="6.0"/>
+<text class="label" x="271.00" y="74.00">4</text>
+<text class="rc" x="271.00" y="89.00">R0 C4</text>
+<rect class="key" x="299.50" y="53.50" width="51.00" height="51.00" rx="6.0"/>
+<text class="label" x="325.00" y="74.00">5</text>
+<text class="rc" x="325.00" y="89.00">R0 C5</text>
+<rect class="key" x="353.50" y="53.50" width="51.00" height="51.00" rx="6.0"/>
+<text class="label" x="379.00" y="74.00">6</text>
+<text class="rc" x="379.00" y="89.00">R0 C6</text>
+<rect class="key" x="407.50" y="53.50" width="51.00" height="51.00" rx="6.0"/>
+<text class="label" x="433.00" y="74.00">7</text>
+<text class="rc" x="433.00" y="89.00">R0 C7</text>
+<rect class="key" x="461.50" y="53.50" width="51.00" height="51.00" rx="6.0"/>
+<text class="label" x="487.00" y="74.00">8</text>
+<text class="rc" x="487.00" y="89.00">R0 C8</text>
+<rect class="key" x="515.50" y="53.50" width="51.00" height="51.00" rx="6.0"/>
+<text class="label" x="541.00" y="74.00">9</text>
+<text class="rc" x="541.00" y="89.00">R0 C9</text>
+<rect class="key" x="569.50" y="53.50" width="51.00" height="51.00" rx="6.0"/>
+<text class="label" x="595.00" y="74.00">0</text>
+<text class="rc" x="595.00" y="89.00">R0 C10</text>
+<rect class="key" x="623.50" y="53.50" width="51.00" height="51.00" rx="6.0"/>
+<text class="label" x="649.00" y="74.00">-</text>
+<text class="rc" x="649.00" y="89.00">R0 C11</text>
+<rect class="key" x="677.50" y="53.50" width="51.00" height="51.00" rx="6.0"/>
+<text class="label" x="703.00" y="74.00">=</text>
+<text class="rc" x="703.00" y="89.00">R0 C12</text>
+<rect class="key stab" x="731.50" y="53.50" width="105.00" height="51.00" rx="6.0"/>
+<text class="label" x="784.00" y="74.00">Bksp</text>
+<text class="rc" x="784.00" y="89.00">R0 C13</text>
+<rect class="key mod" x="839.50" y="53.50" width="51.00" height="51.00" rx="6.0"/>
+<text class="label" x="865.00" y="74.00">Del</text>
+<text class="rc" x="865.00" y="89.00">R0 C14</text>
+<rect class="key enc" x="907.00" y="53.50" width="51.00" height="51.00" rx="25.5"/>
+<text class="label" x="932.50" y="74.00">Enc</text>
+<text class="rc" x="932.50" y="89.00">ENC GP20/21</text>
+<rect class="key wide" x="29.50" y="107.50" width="78.00" height="51.00" rx="6.0"/>
+<text class="label" x="68.50" y="128.00">Tab</text>
+<text class="rc" x="68.50" y="143.00">R1 C0</text>
+<rect class="key" x="110.50" y="107.50" width="51.00" height="51.00" rx="6.0"/>
+<text class="label" x="136.00" y="128.00">Q</text>
+<text class="rc" x="136.00" y="143.00">R1 C1</text>
+<rect class="key" x="164.50" y="107.50" width="51.00" height="51.00" rx="6.0"/>
+<text class="label" x="190.00" y="128.00">W</text>
+<text class="rc" x="190.00" y="143.00">R1 C2</text>
+<rect class="key" x="218.50" y="107.50" width="51.00" height="51.00" rx="6.0"/>
+<text class="label" x="244.00" y="128.00">E</text>
+<text class="rc" x="244.00" y="143.00">R1 C3</text>
+<rect class="key" x="272.50" y="107.50" width="51.00" height="51.00" rx="6.0"/>
+<text class="label" x="298.00" y="128.00">R</text>
+<text class="rc" x="298.00" y="143.00">R1 C4</text>
+<rect class="key" x="326.50" y="107.50" width="51.00" height="51.00" rx="6.0"/>
+<text class="label" x="352.00" y="128.00">T</text>
+<text class="rc" x="352.00" y="143.00">R1 C5</text>
+<rect class="key" x="380.50" y="107.50" width="51.00" height="51.00" rx="6.0"/>
+<text class="label" x="406.00" y="128.00">Y</text>
+<text class="rc" x="406.00" y="143.00">R1 C6</text>
+<rect class="key" x="434.50" y="107.50" width="51.00" height="51.00" rx="6.0"/>
+<text class="label" x="460.00" y="128.00">U</text>
+<text class="rc" x="460.00" y="143.00">R1 C7</text>
+<rect class="key" x="488.50" y="107.50" width="51.00" height="51.00" rx="6.0"/>
+<text class="label" x="514.00" y="128.00">I</text>
+<text class="rc" x="514.00" y="143.00">R1 C8</text>
+<rect class="key" x="542.50" y="107.50" width="51.00" height="51.00" rx="6.0"/>
+<text class="label" x="568.00" y="128.00">O</text>
+<text class="rc" x="568.00" y="143.00">R1 C9</text>
+<rect class="key" x="596.50" y="107.50" width="51.00" height="51.00" rx="6.0"/>
+<text class="label" x="622.00" y="128.00">P</text>
+<text class="rc" x="622.00" y="143.00">R1 C10</text>
+<rect class="key" x="650.50" y="107.50" width="51.00" height="51.00" rx="6.0"/>
+<text class="label" x="676.00" y="128.00">[</text>
+<text class="rc" x="676.00" y="143.00">R1 C11</text>
+<rect class="key" x="704.50" y="107.50" width="51.00" height="51.00" rx="6.0"/>
+<text class="label" x="730.00" y="128.00">]</text>
+<text class="rc" x="730.00" y="143.00">R1 C12</text>
+<rect class="key wide" x="758.50" y="107.50" width="78.00" height="51.00" rx="6.0"/>
+<text class="label" x="797.50" y="128.00">\\</text>
+<text class="rc" x="797.50" y="143.00">R1 C13</text>
+<rect class="key mod" x="839.50" y="107.50" width="51.00" height="51.00" rx="6.0"/>
+<text class="label" x="865.00" y="128.00">PgUp</text>
+<text class="rc" x="865.00" y="143.00">R1 C14</text>
+<rect class="key wide" x="29.50" y="161.50" width="91.50" height="51.00" rx="6.0"/>
+<text class="label" x="75.25" y="182.00">Caps</text>
+<text class="rc" x="75.25" y="197.00">R2 C0</text>
+<rect class="key" x="124.00" y="161.50" width="51.00" height="51.00" rx="6.0"/>
+<text class="label" x="149.50" y="182.00">A</text>
+<text class="rc" x="149.50" y="197.00">R2 C1</text>
+<rect class="key" x="178.00" y="161.50" width="51.00" height="51.00" rx="6.0"/>
+<text class="label" x="203.50" y="182.00">S</text>
+<text class="rc" x="203.50" y="197.00">R2 C2</text>
+<rect class="key" x="232.00" y="161.50" width="51.00" height="51.00" rx="6.0"/>
+<text class="label" x="257.50" y="182.00">D</text>
+<text class="rc" x="257.50" y="197.00">R2 C3</text>
+<rect class="key" x="286.00" y="161.50" width="51.00" height="51.00" rx="6.0"/>
+<text class="label" x="311.50" y="182.00">F</text>
+<text class="rc" x="311.50" y="197.00">R2 C4</text>
+<rect class="key" x="340.00" y="161.50" width="51.00" height="51.00" rx="6.0"/>
+<text class="label" x="365.50" y="182.00">G</text>
+<text class="rc" x="365.50" y="197.00">R2 C5</text>
+<rect class="key" x="394.00" y="161.50" width="51.00" height="51.00" rx="6.0"/>
+<text class="label" x="419.50" y="182.00">H</text>
+<text class="rc" x="419.50" y="197.00">R2 C6</text>
+<rect class="key" x="448.00" y="161.50" width="51.00" height="51.00" rx="6.0"/>
+<text class="label" x="473.50" y="182.00">J</text>
+<text class="rc" x="473.50" y="197.00">R2 C7</text>
+<rect class="key" x="502.00" y="161.50" width="51.00" height="51.00" rx="6.0"/>
+<text class="label" x="527.50" y="182.00">K</text>
+<text class="rc" x="527.50" y="197.00">R2 C8</text>
+<rect class="key" x="556.00" y="161.50" width="51.00" height="51.00" rx="6.0"/>
+<text class="label" x="581.50" y="182.00">L</text>
+<text class="rc" x="581.50" y="197.00">R2 C9</text>
+<rect class="key" x="610.00" y="161.50" width="51.00" height="51.00" rx="6.0"/>
+<text class="label" x="635.50" y="182.00">;</text>
+<text class="rc" x="635.50" y="197.00">R2 C10</text>
+<rect class="key" x="664.00" y="161.50" width="51.00" height="51.00" rx="6.0"/>
+<text class="label" x="689.50" y="182.00">'</text>
+<text class="rc" x="689.50" y="197.00">R2 C11</text>
+<rect class="key stab" x="718.00" y="161.50" width="118.50" height="51.00" rx="6.0"/>
+<text class="label" x="777.25" y="182.00">Enter</text>
+<text class="rc" x="777.25" y="197.00">R2 C12</text>
+<rect class="key mod" x="839.50" y="161.50" width="51.00" height="51.00" rx="6.0"/>
+<text class="label" x="865.00" y="182.00">PgDn</text>
+<text class="rc" x="865.00" y="197.00">R2 C14</text>
+<rect class="key stab" x="29.50" y="215.50" width="118.50" height="51.00" rx="6.0"/>
+<text class="label" x="88.75" y="236.00">Shift</text>
+<text class="rc" x="88.75" y="251.00">R3 C0</text>
+<rect class="key" x="151.00" y="215.50" width="51.00" height="51.00" rx="6.0"/>
+<text class="label" x="176.50" y="236.00">Z</text>
+<text class="rc" x="176.50" y="251.00">R3 C1</text>
+<rect class="key" x="205.00" y="215.50" width="51.00" height="51.00" rx="6.0"/>
+<text class="label" x="230.50" y="236.00">X</text>
+<text class="rc" x="230.50" y="251.00">R3 C2</text>
+<rect class="key" x="259.00" y="215.50" width="51.00" height="51.00" rx="6.0"/>
+<text class="label" x="284.50" y="236.00">C</text>
+<text class="rc" x="284.50" y="251.00">R3 C3</text>
+<rect class="key" x="313.00" y="215.50" width="51.00" height="51.00" rx="6.0"/>
+<text class="label" x="338.50" y="236.00">V</text>
+<text class="rc" x="338.50" y="251.00">R3 C4</text>
+<rect class="key" x="367.00" y="215.50" width="51.00" height="51.00" rx="6.0"/>
+<text class="label" x="392.50" y="236.00">B</text>
+<text class="rc" x="392.50" y="251.00">R3 C5</text>
+<rect class="key" x="421.00" y="215.50" width="51.00" height="51.00" rx="6.0"/>
+<text class="label" x="446.50" y="236.00">N</text>
+<text class="rc" x="446.50" y="251.00">R3 C6</text>
+<rect class="key" x="475.00" y="215.50" width="51.00" height="51.00" rx="6.0"/>
+<text class="label" x="500.50" y="236.00">M</text>
+<text class="rc" x="500.50" y="251.00">R3 C7</text>
+<rect class="key" x="529.00" y="215.50" width="51.00" height="51.00" rx="6.0"/>
+<text class="label" x="554.50" y="236.00">,</text>
+<text class="rc" x="554.50" y="251.00">R3 C8</text>
+<rect class="key" x="583.00" y="215.50" width="51.00" height="51.00" rx="6.0"/>
+<text class="label" x="608.50" y="236.00">.</text>
+<text class="rc" x="608.50" y="251.00">R3 C9</text>
+<rect class="key" x="637.00" y="215.50" width="51.00" height="51.00" rx="6.0"/>
+<text class="label" x="662.50" y="236.00">/</text>
+<text class="rc" x="662.50" y="251.00">R3 C10</text>
+<rect class="key wide" x="691.00" y="215.50" width="91.50" height="51.00" rx="6.0"/>
+<text class="label" x="736.75" y="236.00">Shift</text>
+<text class="rc" x="736.75" y="251.00">R3 C11</text>
+<rect class="key" x="785.50" y="215.50" width="51.00" height="51.00" rx="6.0"/>
+<text class="label" x="811.00" y="236.00">Up</text>
+<text class="rc" x="811.00" y="251.00">R3 C12</text>
+<rect class="key mod" x="839.50" y="215.50" width="51.00" height="51.00" rx="6.0"/>
+<text class="label" x="865.00" y="236.00">End</text>
+<text class="rc" x="865.00" y="251.00">R3 C14</text>
+<rect class="key wide" x="29.50" y="269.50" width="64.50" height="51.00" rx="6.0"/>
+<text class="label" x="61.75" y="290.00">Ctrl</text>
+<text class="rc" x="61.75" y="305.00">R4 C0</text>
+<rect class="key wide" x="97.00" y="269.50" width="64.50" height="51.00" rx="6.0"/>
+<text class="label" x="129.25" y="290.00">Win</text>
+<text class="rc" x="129.25" y="305.00">R4 C1</text>
+<rect class="key wide" x="164.50" y="269.50" width="64.50" height="51.00" rx="6.0"/>
+<text class="label" x="196.75" y="290.00">Alt</text>
+<text class="rc" x="196.75" y="305.00">R4 C2</text>
+<rect class="key stab" x="232.00" y="269.50" width="334.50" height="51.00" rx="6.0"/>
+<text class="label" x="399.25" y="290.00">Space</text>
+<text class="rc" x="399.25" y="305.00">R4 C3</text>
+<rect class="key mod" x="569.50" y="269.50" width="51.00" height="51.00" rx="6.0"/>
+<text class="label" x="595.00" y="290.00">Alt</text>
+<text class="rc" x="595.00" y="305.00">R4 C8</text>
+<rect class="key mod" x="623.50" y="269.50" width="51.00" height="51.00" rx="6.0"/>
+<text class="label" x="649.00" y="290.00">Fn</text>
+<text class="rc" x="649.00" y="305.00">R4 C9</text>
+<rect class="key mod" x="677.50" y="269.50" width="51.00" height="51.00" rx="6.0"/>
+<text class="label" x="703.00" y="290.00">Ctrl</text>
+<text class="rc" x="703.00" y="305.00">R4 C10</text>
+<rect class="key" x="731.50" y="269.50" width="51.00" height="51.00" rx="6.0"/>
+<text class="label" x="757.00" y="290.00">Left</text>
+<text class="rc" x="757.00" y="305.00">R4 C11</text>
+<rect class="key" x="785.50" y="269.50" width="51.00" height="51.00" rx="6.0"/>
+<text class="label" x="811.00" y="290.00">Down</text>
+<text class="rc" x="811.00" y="305.00">R4 C12</text>
+<rect class="key" x="839.50" y="269.50" width="51.00" height="51.00" rx="6.0"/>
+<text class="label" x="865.00" y="290.00">Right</text>
+<text class="rc" x="865.00" y="305.00">R4 C13</text>
+</svg>

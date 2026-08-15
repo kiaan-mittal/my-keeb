@@ -1,0 +1,28 @@
+# KiCad
+*-backups/
+_autosave-*
+*.kicad_prl
+*.lck
+fp-info-cache
+*.bak
+*.kicad_sch-bak
+*.kicad_pcb-bak
+\#auto_saved_files\#
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
+.idea/
+.vscode/
+
+# Firmware build
+firmware/target/
+firmware/.rmk/
+*.uf2
+!firmware/**/*.uf2
+
+# Python
+__pycache__/
+*.pyc
+.venv/
