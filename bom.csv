@@ -1,0 +1,14 @@
+category,item,qty,unit,vendor,url,unit_price_usd,line_total_usd,status,notes
+mcu,Orpheus Pico (RP2040),1,pcs,Hack Club,https://orpheuspico.hackclub.com/,,0,planned,Pico-compatible; USB-C hangs off PCB edge
+switches,MX-style mechanical switches (tactile),70,pcs,AliExpress,https://www.aliexpress.us/item/3256802192387196.html,,0,planned,68 keys + 2 spares; MX footprint
+keycaps,White blank DSA keycap set,1,set,TBD,,0,0,planned,DSA is uniform height so row profiles do not matter
+diodes,1N4148 through-hole,80,pcs,AliExpress,https://www.aliexpress.com/w/wholesale-diode-1n4148.html,,0,planned,One per switch plus spares
+encoder,EC11 rotary encoder,2,pcs,Alibaba,https://www.alibaba.com/product-detail/EC11-rotary-15-20mm-Meihua-Bing_1600985459709.html,,0,planned,One for the board + one spare
+oled,0.91 inch OLED 128x32 I2C,1,pcs,AliExpress,https://www.aliexpress.us/item/2251832650376908.html,,0,planned,Pin order GND-VCC-SCL-SDA — PCB must match
+stabilizers,PCB-mount MX stabilizers,1,set,TBD,,0,0,planned,2u x3 (Bksp Enter LShift) + 6.25u space
+screws,M3x16mm screws,12,pcs,TBD,,0,0,planned,Case assembly
+inserts,M3x5x4mm heatset inserts,12,pcs,AliExpress,https://www.aliexpress.us/item/2255800046543591.html,,0,planned,Press into 3D-printed bosses
+cable,USB-C cable,1,pcs,TBD,,0,0,planned,Grant-listed; Pico is USB-C
+pcb,Custom 2-layer FR4 PCB (~330x110mm),5,pcs,JLCPCB or similar,,0,0,planned,Order after Gerbers pass DRC; qty 5 is usually the cheap break
+case,3D-printed tray-mount case (split),1,set,Local print / print legion,,0,0,planned,Export STEP from Onshape; split for 220mm bed
+optional,SK6812 MINI-E RGB LEDs,70,pcs,LCSC,https://www.lcsc.com/product-detail/C5149201.html,,0,0,maybe,Only if I add per-key RGB later
